@@ -5,8 +5,13 @@
 If this code helps with your work, please cite:
 
 ```bibtex
-@inproceedings{
-...
+@incollection{yang2020group,
+  title={Group behavior recognition using attention-and graph-based neural networks},
+  author={Yang, Fangkai and Yin, Wenjie and Inamura, Tetsunari and Bj{\"o}rkman, M{\aa}rten and Peters, Christopher},
+  booktitle={ECAI 2020},
+  pages={1626--1633},
+  year={2020},
+  publisher={IOS Press}
 }
 ```
 
