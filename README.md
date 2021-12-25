@@ -23,6 +23,7 @@ If this code helps with your work, please cite:
 **Scenario**: A game scene called Who’s the Spy. Three group players and one observer. The observer approaches and joins the group. 
 
 ![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png)
+
 ![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image2.gif)
 
 **Details**: 
@@ -31,8 +32,13 @@ If this code helps with your work, please cite:
 - Time period: 2-6 seconds;
 - Frame rate: 120 fps;
 - Behaviors: Accommodate and Ignore
-- 
-## Baselines
+
+## Methods
+
+Based on Spatial-Temporal Graph Convolutional Networks (ST-GCN), but extended to multiple temporal scales (MST-GCN). Approach Group GCN (AG-GCN) for group behavior analysis: Multi-Spatial-Temporal GCN (MST-GCN) on the individual level and Group GCN on group level. 
+
+![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image5.png)
+
 
 ## Acknowledgements
 
