@@ -25,6 +25,13 @@ If this code helps with your work, please cite:
 ![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png)
 ![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image2.gif)
 
+**Details**: 
+- 380 human approaches groups trials
+- Full body motion capture data of all players (37 markers)
+- Time period: 2-6 seconds;
+- Frame rate: 120 fps;
+- Behaviors: Accommodate and Ignore
+- 
 ## Baselines
 
 ## Acknowledgements
