@@ -18,6 +18,11 @@ If this code helps with your work, please cite:
 
 ## Dataset
 
+**CongreG8**: A mocap dataset for proxemics and social robotics (not public yet). Recorded in a motion capture lab with an approximate 5m × 5m × 3m active capture volume, which is equipped with a NaturalPoint Optitrack2 system with 16 Prime 41 cameras.
+
+**Scenario**: A game scene called Who’s the Spy. Three group players and one observer. The observer approaches and joins the group. 
+
+
 ## Baselines
 
 ## Acknowledgements
