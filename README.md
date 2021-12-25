@@ -39,6 +39,11 @@ Based on Spatial-Temporal Graph Convolutional Networks (ST-GCN), but extended to
 
 ![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image5.png)
 
+## Demo
+
+A use case in a virtual environment with live classification of accommodation and ignore.
+
+![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image4.png)
 
 ## Acknowledgements
 
