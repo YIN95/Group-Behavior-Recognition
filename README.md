@@ -1,6 +1,6 @@
 # Group Behavior Recognition Using Attention- and Graph-Based Neural Networks
 
-[[paper](https://)] [[video](https://underline.io/lecture/1953-group-behavior-recognition-using-attention--and-graph-based-neural-networks
+[[paper](https://ebooks.iospress.nl/volumearticle/55068)] [[video](https://underline.io/lecture/1953-group-behavior-recognition-using-attention--and-graph-based-neural-networks
 )] 
 
 If this code helps with your work, please cite:
