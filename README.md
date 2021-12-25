@@ -22,6 +22,7 @@ If this code helps with your work, please cite:
 
 **Scenario**: A game scene called Who’s the Spy. Three group players and one observer. The observer approaches and joins the group. 
 
+![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png "network")
 
 ## Baselines
 
