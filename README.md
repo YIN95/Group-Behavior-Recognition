@@ -22,10 +22,8 @@ If this code helps with your work, please cite:
 
 **Scenario**: A game scene called Who’s the Spy. Three group players and one observer. The observer approaches and joins the group. 
 
-![image](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png "Title" {width=40px height=400px})
-
-![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png "network" {width=40px height=400px})
-![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image2.gif "network" {width=40px })
+![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image1.png)
+![network](https://github.com/YIN95/Group-Behavior-Recognition/blob/master/media/image2.gif)
 
 ## Baselines
 
